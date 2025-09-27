@@ -7,7 +7,7 @@
   💬 Ask me about anything<br>
   ⚡ Fun fact: i hate make bio (O_O)<br><br>
 </h2>
-<h1>
+<h1 align="center">
   Badges
 </h1>
 <p align="center">
