@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">
   🔭 I’m currently working on saving the earth<br>
-  🌱 I’m currently learning **Java**<br>
+  🌱 I’m currently learning **smth**<br>
   💬 Ask me about anything<br>
   ⚡ Fun fact: i hate make bio (O_O)<br><br>
 </h2>
